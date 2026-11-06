@@ -20,3 +20,6 @@ venv/
 
 # OS
 .DS_Store
+
+# Personal resume files
+data/sample_resumes/

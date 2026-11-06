@@ -1,0 +1,103 @@
+
+[
+  {
+    "name": "Java",
+    "aliases": ["java"],
+    "category": "Programming Language"
+  },
+  {
+    "name": "Python",
+    "aliases": ["python"],
+    "category": "Programming Language"
+  },
+  {
+    "name": "C++",
+    "aliases": ["c++", "cpp"],
+    "category": "Programming Language"
+  },
+  {
+    "name": "C",
+    "aliases": ["c"],
+    "category": "Programming Language"
+  },
+  {
+    "name": "SQL",
+    "aliases": ["sql", "structured query language"],
+    "category": "Database"
+  },
+  {
+    "name": "Machine Learning",
+    "aliases": ["machine learning", "ml"],
+    "category": "AI/ML"
+  },
+  {
+    "name": "Deep Learning",
+    "aliases": ["deep learning"],
+    "category": "AI/ML"
+  },
+  {
+    "name": "Pandas",
+    "aliases": ["pandas"],
+    "category": "Data Science"
+  },
+  {
+    "name": "NumPy",
+    "aliases": ["numpy"],
+    "category": "Data Science"
+  },
+  {
+    "name": "Scikit-learn",
+    "aliases": ["scikit-learn", "sklearn"],
+    "category": "AI/ML"
+  },
+  {
+    "name": "React",
+    "aliases": ["react", "react.js"],
+    "category": "Frontend"
+  },
+  {
+    "name": "JavaScript",
+    "aliases": ["javascript", "js"],
+    "category": "Programming Language"
+  },
+  {
+    "name": "HTML",
+    "aliases": ["html"],
+    "category": "Frontend"
+  },
+  {
+    "name": "CSS",
+    "aliases": ["css"],
+    "category": "Frontend"
+  },
+  {
+    "name": "Flask",
+    "aliases": ["flask"],
+    "category": "Backend"
+  },
+  {
+    "name": "FastAPI",
+    "aliases": ["fastapi"],
+    "category": "Backend"
+  },
+  {
+    "name": "Git",
+    "aliases": ["git", "github"],
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Docker",
+    "aliases": ["docker"],
+    "category": "Developer Tools"
+  },
+  {
+    "name": "PostgreSQL",
+    "aliases": ["postgresql", "postgres"],
+    "category": "Database"
+  },
+  {
+    "name": "MySQL",
+    "aliases": ["mysql"],
+    "category": "Database"
+  }
+]
